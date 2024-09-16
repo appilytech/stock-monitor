@@ -4,7 +4,7 @@ This is a sample NextJS project that allows to search for Stock symbols, add to 
 
 This project is used to demonstrate conversion of a React App to a React Native App. 
 
-For more details checkout the blog [Converting a React Web App to a React Native Mobile App](https://appilytech.com).
+For more details checkout the blog [Converting a React Web App to a React Native Mobile App](https://appilytech.com/blog/technology/react-to-react-native).
 
 ## Running Locally
 
